@@ -68,6 +68,7 @@ button {
   text-transform: uppercase;
   letter-spacing: 0.025em;
   color: #56b6c2;
+  outline: none;
 }
 
 button:hover {
